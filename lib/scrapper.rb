@@ -3,9 +3,9 @@ require "json"
 require "nokogiri"
 require "open-uri"
 
-@apilinks_file = File.join(__dir__, 'apilinks.csv')
+@apilinks_file = File.join(__dir__, '../data/apilinks.csv')
 @apilinks = []
-@bars_file = File.join(__dir__, 'bars_data.json')
+@bars_file = File.join(__dir__, '../data/bars_data.json')
 @bars_data = []
 
 def loadhref(url)
@@ -20,8 +20,8 @@ def loadhref(url)
 end
 
 # Calling the method to load hrefs
-loadhref("lib/rennes.html")
-loadhref("lib/nantes.html")
+loadhref("../data/rennes.html")
+loadhref("../data/nantes.html")
 
 def save_csv
   CSV.open(@apilinks_file, "wb") do |csv|

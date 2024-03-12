@@ -61,9 +61,6 @@
         "phone": "+33 2 90 89 40 28"
       },
       {
-        "ref:FR:SIRET": "81799883400011"
-      },
-      {
         "source:addr": "Rennes Métropole"
       },
       {
@@ -838,9 +835,6 @@
         "delivery": "yes"
       },
       {
-        "diet:vegan": "yes"
-      },
-      {
         "level": "0"
       },
       {
@@ -1555,9 +1549,6 @@
         "amenity": "bar"
       },
       {
-        "check_date:currency:XBT": "2023-05-22"
-      },
-      {
         "contact:city": "Rennes"
       },
       {
@@ -1577,9 +1568,6 @@
       },
       {
         "contact:street": "Rue de Dinan"
-      },
-      {
-        "currency:XBT": "yes"
       },
       {
         "darts:type": "e_darts"
@@ -2371,9 +2359,6 @@
         "cuisine": "italian;appetizer;salad"
       },
       {
-        "diet:vegetarian": "yes"
-      },
-      {
         "drive_through": "no"
       },
       {
@@ -2576,9 +2561,6 @@
       },
       {
         "check_date": "2023-09-09"
-      },
-      {
-        "diet:vegetarian": "yes"
       },
       {
         "name": "Le café de Rennes"
@@ -3001,9 +2983,6 @@
     "apilink": "https://www.openstreetmap.org/api/0.6/node/4328188599",
     "data": [
       {
-        "access:covid19": "yes"
-      },
-      {
         "amenity": "bar"
       },
       {
@@ -3047,9 +3026,6 @@
       },
       {
         "shop": "newsagent"
-      },
-      {
-        "takeaway:covid19": "yes"
       },
       {
         "tobacco": "yes"
@@ -3296,9 +3272,6 @@
       },
       {
         "amenity": "bar"
-      },
-      {
-        "description:covid19": "bar-tabac-presse : le bar est fermé mais le tabac et la presse sont toujours disponibles !"
       },
       {
         "name": "Le Saint-Hélier"
@@ -3566,9 +3539,6 @@
       },
       {
         "amenity": "bar"
-      },
-      {
-        "diet:vegetarian": "yes"
       },
       {
         "internet_access": "wlan"
@@ -4102,9 +4072,6 @@
         "amenity": "bar"
       },
       {
-        "bookmaker": "yes"
-      },
-      {
         "contact:facebook": "https://www.facebook.com/Chez-Marie-354113125368785/"
       },
       {
@@ -4121,12 +4088,6 @@
       },
       {
         "outdoor_seating": "yes"
-      },
-      {
-        "ref:FR:NAF": "5630Z"
-      },
-      {
-        "ref:FR:SIREN": "843994054"
       },
       {
         "ref:FR:SIRET": "84399405400016"
@@ -4316,9 +4277,6 @@
       },
       {
         "cuisine": "burger;poke;tapas"
-      },
-      {
-        "diet:vegetarian": "yes"
       },
       {
         "email": "contact@morexcustom.com"
@@ -4558,22 +4516,7 @@
         "name": "Café de l'Étoile"
       },
       {
-        "opening_hours:covid19": "restricted"
-      },
-      {
         "ref:FR:SIRET": "81776458200018"
-      },
-      {
-        "sells:bookmaker": "yes"
-      },
-      {
-        "sells:lottery": "yes"
-      },
-      {
-        "sells:newsagent": "yes"
-      },
-      {
-        "sells:tobacco": "yes"
       }
     ]
   },
@@ -4993,13 +4936,7 @@
     "apilink": "https://www.openstreetmap.org/api/0.6/node/479152231",
     "data": [
       {
-        "amenity": "bar"
-      },
-      {
-        "cuisine": "crepe"
-      },
-      {
-        "cuisine:fr": "crêperie"
+        "amenity": "bar crêperie"
       },
       {
         "name": "La Vallée"
@@ -5453,9 +5390,6 @@
       },
       {
         "opening_hours": "Tu-Fr 07:00-20:00; Sa 08:30-19:30; Su 09:00-13:00"
-      },
-      {
-        "opening_hours:covid19": "Tu-Fr 07:30-13:00; Sa 08:30-13:00; Su 09:00-13:00"
       },
       {
         "ref:FR:SIRET": "82179679400013"
@@ -7069,9 +7003,6 @@
     "apilink": "https://www.openstreetmap.org/api/0.6/node/3129109164",
     "data": [
       {
-        "access": "private"
-      },
-      {
         "amenity": "pub"
       },
       {
@@ -7381,9 +7312,6 @@
         "name": "Le Breton"
       },
       {
-        "opening_hours:covid19": "off"
-      },
-      {
         "shop": "newsagent"
       }
     ]
@@ -7441,9 +7369,6 @@
         "brewery": "various"
       },
       {
-        "bulk_purchase": "yes"
-      },
-      {
         "email": "contact@leguibra.fr"
       },
       {
@@ -7480,10 +7405,7 @@
     "apilink": "https://www.openstreetmap.org/api/0.6/node/1874601252",
     "data": [
       {
-        "amenity": "pub"
-      },
-      {
-        "cafe": "yes"
+        "amenity": "bar café"
       },
       {
         "entrance": "yes"
@@ -7843,16 +7765,10 @@
         "amenity": "bar"
       },
       {
-        "gambling": "yes"
-      },
-      {
         "lottery": "yes"
       },
       {
         "name": "Le Sèvre"
-      },
-      {
-        "newspapers": "yes"
       },
       {
         "opening_hours": "Tu-Sa 07:00-20:00;Su 07:30-20:00;PH 07:30-20:00"
@@ -8021,9 +7937,6 @@
       },
       {
         "description": "Bar gaming, escape game VR"
-      },
-      {
-        "layer": "1"
       },
       {
         "name": "Virtual Univers"
@@ -8611,9 +8524,6 @@
         "phone": "+33 2 51 84 06 79"
       },
       {
-        "ref": "NIFNA000712"
-      },
-      {
         "survey:date": "2021-08-01"
       },
       {
@@ -8770,9 +8680,6 @@
         "description": "Bières artisanale, microbrasserie, bar et boutique"
       },
       {
-        "fixme": "Horaires à vérifier sur place"
-      },
-      {
         "microbrewery": "yes"
       },
       {
@@ -8780,12 +8687,6 @@
       },
       {
         "opening_hours": "Mo-We 17:00-24:00, Th-Sa 17:00-02:00, Su 17:00-24:00"
-      },
-      {
-        "product": "beer"
-      },
-      {
-        "survey:date": "2020-09-30"
       },
       {
         "wheelchair": "yes"
@@ -8867,9 +8768,6 @@
       },
       {
         "name": "Coco Bandit"
-      },
-      {
-        "not:brand:wikidata": "Q65084369"
       },
       {
         "opening_hours": "Mo-We 18:00-24:00, Th 18:00-01:00, Fr 18:00-02:00"
@@ -9190,12 +9088,6 @@
         "description": "Bar à tartes flambées"
       },
       {
-        "diet:vegan": "yes"
-      },
-      {
-        "diet:vegetarian": "yes"
-      },
-      {
         "name": "L'alsacien Nantes"
       },
       {
@@ -9286,9 +9178,6 @@
         "amenity": "bar"
       },
       {
-        "bulk_purchase": "yes"
-      },
-      {
         "check_date:opening_hours": "2023-03-07"
       },
       {
@@ -9311,9 +9200,6 @@
       },
       {
         "outdoor_seating": "pedestrian_zone"
-      },
-      {
-        "source:bulk_purchase": "Collectif J'aime tes bocaux"
       },
       {
         "start_date": "2009"
@@ -10027,16 +9913,10 @@
         "amenity": "bar"
       },
       {
-        "brand": "Les BerThoM"
-      },
-      {
         "brewery": "yes"
       },
       {
         "check_date": "2023-10-08"
-      },
-      {
-        "dog": "yes"
       },
       {
         "name": "Les BerThoM"
@@ -10438,9 +10318,6 @@
         "contact:street": "Rue de l'Émery"
       },
       {
-        "fixme": "Etablissement toujours ouvert ? A vérifier"
-      },
-      {
         "name": "Le pti Zinc"
       },
       {
@@ -10753,9 +10630,6 @@
         "description": "Galerie, café associatif, laverie"
       },
       {
-        "fee": "no"
-      },
-      {
         "name": "Askip"
       },
       {
@@ -10763,9 +10637,6 @@
       },
       {
         "outdoor_seating": "yes"
-      },
-      {
-        "tourism": "gallery"
       },
       {
         "url": "https://www.nantes-tourisme.com/fr/exposition/askip"
@@ -12154,9 +12025,6 @@
         "amenity": "bar"
       },
       {
-        "bulk_purchase": "yes"
-      },
-      {
         "check_date": "2023-10-23"
       },
       {
@@ -12229,9 +12097,6 @@
         "amenity": "bar"
       },
       {
-        "brand": "Au fût et à mesure"
-      },
-      {
         "contact:instagram": "https://www.instagram.com/aufut_nantes"
       },
       {
@@ -12296,9 +12161,6 @@
       },
       {
         "phone": "+33 2 51 86 21 31"
-      },
-      {
-        "takeaway:covid19": "yes"
       }
     ]
   },
@@ -12460,12 +12322,6 @@
         "name": "L'alchimisterie"
       },
       {
-        "payment:cash": "yes"
-      },
-      {
-        "payment:meal_voucher": "yes"
-      },
-      {
         "wheelchair": "no"
       }
     ]
@@ -12625,9 +12481,6 @@
         "name": "Belle de Jour"
       },
       {
-        "official_name": "Belle de Jour"
-      },
-      {
         "opening_hours": "We-Fr 09:00-00:30; Mo 09:00-22:00; Tu 09:00-22:30; Sa 10:30-00:30"
       },
       {
@@ -12635,9 +12488,6 @@
       },
       {
         "phone": "+33 2 40 14 84 49"
-      },
-      {
-        "source": "data.gouv.fr:DATAtourisme - 05/2020"
       },
       {
         "takeaway": "yes"
@@ -12674,9 +12524,6 @@
       },
       {
         "phone": "+33 2 40 69 36 89"
-      },
-      {
-        "takeaway:covid19": "yes"
       },
       {
         "wheelchair": "no"
@@ -13003,9 +12850,6 @@
         "addr:city": "Nantes"
       },
       {
-        "addr:housename": "Melocotton"
-      },
-      {
         "addr:housenumber": "9"
       },
       {
@@ -13109,9 +12953,6 @@
       },
       {
         "cuisine": "french"
-      },
-      {
-        "diet:vegetarian": "limited"
       },
       {
         "name": "Le Mathurin"
@@ -13234,9 +13075,6 @@
         "amenity": "bar"
       },
       {
-        "books": "children;comic"
-      },
-      {
         "brewery": "Brasseries du Bouffay;Brasserie Nautile;Brasserie Philmore"
       },
       {
@@ -13310,9 +13148,6 @@
       },
       {
         "phone": "+33 2 40 74 09 87"
-      },
-      {
-        "source": "data.gouv.fr:DATAtourisme - 05/2020"
       },
       {
         "takeaway": "yes"
@@ -13622,9 +13457,6 @@
       },
       {
         "opening_hours": "Tu 11:00-24:00; We-Fr 00:00-02:00,11:00-24:00; Sa 00:00-02:00; Su 08:00-14:00"
-      },
-      {
-        "opening_hours:covid19": "Mo 17:00-24:00; Tu 00:00-02:00,17:00-24:00; We-Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00"
       },
       {
         "phone": "+33 2 40 20 03 34"
@@ -14071,7 +13903,7 @@
         "addr:street": "Mail des Chantiers"
       },
       {
-        "amenity": "bar"
+        "amenity": "bar cave à cidre"
       },
       {
         "contact:facebook": "https://www.facebook.com/sidrasbarnantes"
@@ -14084,9 +13916,6 @@
       },
       {
         "description": "Cave et bar à cidre"
-      },
-      {
-        "drink:cider": "yes"
       },
       {
         "internet_access": "wlan"
@@ -14197,10 +14026,7 @@
         "internet_access": "wlan"
       },
       {
-        "internet_access:fee": "customers"
-      },
-      {
-        "internet_access:ssid": "PIOCHETONWIFI_RDC"
+        "internet_access:fee": "no"
       },
       {
         "name": "Pioche"
@@ -14438,9 +14264,6 @@
       },
       {
         "opening_hours": "Mo-Fr 09:15-20:00; Sa 05:15-16:00"
-      },
-      {
-        "opening_hours:covid19": "off"
       }
     ]
   },
@@ -14638,12 +14461,6 @@
         "contact:website": "https://www.sao-nantes.com/"
       },
       {
-        "dance:style": "latin"
-      },
-      {
-        "dance:teaching": "yes"
-      },
-      {
         "description": "Bar latino et cours de danse afro-latines"
       },
       {
@@ -14833,9 +14650,6 @@
         "opening_hours": "Mo,Tu 07:30-16:00; We-Fr 07:30-20:30"
       },
       {
-        "opening_hours:covid19": "off"
-      },
-      {
         "shop": "newsagent"
       },
       {
@@ -14887,16 +14701,10 @@
         "email": "hello@decadanse.fr"
       },
       {
-        "end_date": "2022-04-30"
-      },
-      {
         "mapillary": "1fz-f1FY6HeI_DWMYzxGQw"
       },
       {
         "name": "Décadanse"
-      },
-      {
-        "note": "Fermeture définitive au 30 Avril 2022 selon leur page facebook"
       },
       {
         "opening_hours": "We-Th 18:00-00:00; Fr-Sa 18:00-02:00"
@@ -15082,9 +14890,6 @@
         "description": "Bar et restaurant d'inspiration allemande"
       },
       {
-        "diet:vegetarian": "yes"
-      },
-      {
         "indoor_seating": "yes"
       },
       {
@@ -15128,12 +14933,6 @@
       },
       {
         "amenity": "pub"
-      },
-      {
-        "brand": "V and B"
-      },
-      {
-        "brand:wikidata": "Q100706329"
       },
       {
         "brewery": "paulamer;guinness"
@@ -15314,9 +15113,6 @@
       },
       {
         "outdoor_seating": "yes"
-      },
-      {
-        "since": "2015"
       },
       {
         "start_date": "2015"
@@ -16069,9 +15865,6 @@
         "contact:street": "Place Saint-Pierre"
       },
       {
-        "diet:vegetarian": "yes"
-      },
-      {
         "name": "Gigg's"
       },
       {
@@ -16353,9 +16146,6 @@
     "index": 510,
     "apilink": "https://www.openstreetmap.org/api/0.6/node/3063159680",
     "data": [
-      {
-        "air_conditioning": "no"
-      },
       {
         "amenity": "pub"
       },
@@ -17110,9 +16900,6 @@
         "description": "Bar et restaurant d'inspiration allemande"
       },
       {
-        "diet:vegetarian": "yes"
-      },
-      {
         "name": "Berlin 1989 Petit-Port"
       },
       {
@@ -17123,33 +16910,6 @@
       },
       {
         "takeaway": "yes"
-      }
-    ]
-  },
-  {
-    "index": 528,
-    "apilink": "https://www.openstreetmap.org/api/0.6/node/341991511",
-    "data": [
-      {
-        "amenity": "pub"
-      },
-      {
-        "cuisine": "braai"
-      },
-      {
-        "food": "yes"
-      },
-      {
-        "name": "Mzoli's Place"
-      },
-      {
-        "wikidata": "Q2617701"
-      },
-      {
-        "wikimedia_commons": "Category:Mzoli's"
-      },
-      {
-        "wikipedia": "en:Mzoli's"
       }
     ]
   },
@@ -17240,9 +17000,6 @@
       },
       {
         "amenity": "bar"
-      },
-      {
-        "is_in": "Carquefood"
       },
       {
         "name": "Forty eight"
@@ -17352,21 +17109,6 @@
     ]
   },
   {
-    "index": 538,
-    "apilink": "https://www.openstreetmap.org/api/0.6/node/38412085",
-    "data": [
-      {
-        "amenity": "pub"
-      },
-      {
-        "created_by": "Potlatch 0.10c"
-      },
-      {
-        "name": "Fat Cactus"
-      }
-    ]
-  },
-  {
     "index": 539,
     "apilink": "https://www.openstreetmap.org/api/0.6/node/1026352506",
     "data": [
@@ -17399,9 +17141,6 @@
       },
       {
         "name": "Le Fer à Cheval"
-      },
-      {
-        "opening_hours:covid19": "off"
       },
       {
         "phone": "+33 2 40 40 23 46"
@@ -17482,9 +17221,6 @@
         "amenity": "bar"
       },
       {
-        "capacity:covid19": "3"
-      },
-      {
         "check_date": "2023-08-19"
       },
       {
@@ -17494,13 +17230,10 @@
         "name": "Rond Point de Vannes"
       },
       {
-        "newsagent": "yes"
+        "shop": "newsagent"
       },
       {
         "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:30-20:00; Su 08:30-13:00"
-      },
-      {
-        "opening_hours:covid19": "Mo-Sa 08:00-20:00; Su 08:30-13:00"
       },
       {
         "operator": "pmu"
